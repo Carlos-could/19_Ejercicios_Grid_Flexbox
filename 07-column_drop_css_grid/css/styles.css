@@ -63,6 +63,6 @@ p {
       grid-template-columns: repeat(3, 1fr);
    }
    .segunda{
-      grid: unset;
+      grid-column: 3/4;
    }
 }
